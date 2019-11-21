@@ -1,0 +1,14 @@
+.App-header {
+    height: 100px;
+    width: auto;
+    background-image: url("https://static.scientificamerican.com/sciam/cache/file/BCC3BD1E-5DC0-4843-A841706AE575C694_source.jpg");
+    background-color: #cccccc;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    border-top-style: none;
+}
+
+.app-logo{
+    width: 100px;
+}
